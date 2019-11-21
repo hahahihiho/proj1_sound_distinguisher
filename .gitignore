@@ -2,3 +2,6 @@
 m4a_files/
 sound_data/
 *.csv
+*.mp3
+*.m4a
+*.wav
