@@ -2,6 +2,7 @@
 m4a_files/
 sound_data/
 *.csv
+!air_final.csv
 *.mp3
 *.m4a
 *.wav
