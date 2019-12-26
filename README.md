@@ -36,13 +36,13 @@
 >
 > *   Deep-Learning Model
 >
->    > basic perceptron 
+>    > DNN
 >    > (tried - conv1d) but the result was similar
 >
 > * Result
 > ![Voice_Filter_Model](/README_IMG/Goal_Result.png)
 > * Improvements
->    
+>   
 >    > HMM, GMM, various and more complex Model by using tensor-flow
 >	 > Done by less data, General data
 > 
